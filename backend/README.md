@@ -5,16 +5,15 @@ In this hands-on series, you’ll learn how to build a full-stack AI Chatbot fro
 
 ---
 
-## 🧠 Project Overview
+## ❗️Create Gemini API Key
 
-You’ll create a simple yet powerful AI Chatbot that connects a React frontend to a Node-Express backend, which communicates with Gemini LLM.  
-Perfect for developers who want to build their **first AI project** and gain confidence in **Generative AI** development.
+Before running the project, generate your **Gemini API Key**. Explained in the playlist
 
 ---
 
-## ⚙️ Setup UI Chatbot (React JS)
+## ⚙️ Setup Backend Chatbot (Node JS + Express JS + Gemini LLM)
 
-Navigate to the `client` directory and install dependencies:
+Navigate to the `backend` directory and install dependencies:
 
 ```bash
 npm install
@@ -22,12 +21,9 @@ npm install
 
 Then start the development server:
 
-``bash
-npm start
+```bash
+npm run start:dev
 ```
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
 
