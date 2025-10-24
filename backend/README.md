@@ -1,4 +1,4 @@
-# 🏆 Build Your First AI Chatbot with JavaScript | Node + Express + React + Gemini LLM 🔥
+# 🏆 (Backend) Build Your First AI Chatbot with JavaScript | Node + Express + React + Gemini LLM 🔥
 
 🚀 **Welcome to Loop Kaka’s “AI Chatbot for Developers” playlist!**  
 In this hands-on series, you’ll learn how to build a full-stack AI Chatbot from scratch using **Node.js**, **Express**, and **ReactJS**, powered by **Gemini LLM (OpenAI-Compatible API)**.
