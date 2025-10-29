@@ -12,7 +12,7 @@ const SYSTEM_PROMPT = `You are an AI agent who solves user queries and gives ans
 You don't answer related to any coding questions and ploitely say user to ask different questions.`;
 
 const openai = new OpenAI({
-  apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyCTxrQCu5U3s_5Z5QUesRAcutHfpzJWfDI",
   baseURL: "https://generativelanguage.googleapis.com/v1beta/openai/",
 });
 
