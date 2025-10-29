@@ -6,7 +6,7 @@ const Container = () => {
   const [messages, setMessages] = useState([]);
   const [isDisabled, setDisable] = useState(false);
 
-  const BASE_URL = "http://localhost:4000";
+  const BASE_URL = "https://chatbot-js-navy.vercel.app";
 
   const callAPI = async () => {
     try {
